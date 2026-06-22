@@ -11,6 +11,7 @@ Currently working through Frontend Mentor challenges to build real projects.
 
 | Project Name | Difficulty | Live Demo |
 | :--- | :--- | :--- |
+| **Time tracking dashboard** | Junior | [Live Site](https://farah-dawod.github.io/time-tracking-dashboard-main/) |
 | **Interactive Card Form** | Junior | [Live Site](https://farah-dawod.github.io/interactive-card-details-form-main/) |
 | **Tip Calculator App** | Junior | [Live Site](https://farah-dawod.github.io/tip-calculator-app-main/) |
 | **Advice Generator App** | Junior | [Live Site](https://farah-dawod.github.io/advice-generator-app-main/) |
